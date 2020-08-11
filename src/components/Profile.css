@@ -1,0 +1,22 @@
+h3 {
+  color: #E57373;
+  padding-top: 20px;
+}
+
+.about {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.content {
+    font-weight: bold;
+    background-color: rgb(158, 156, 156);
+    margin-right: 50px;
+}
+
+
+.year {
+    font-weight: bold;
+    margin-top: 20px;
+    padding-right: 50px;
+}
